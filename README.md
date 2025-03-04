@@ -1,5 +1,5 @@
-# Hello, I am Shelby, otherwise known as Codswell, and welcome to my github profile. 
-# Some things that interest me are machine learning, computer vision, linux, and databases.
+# Hello, I am Codswell, otherwise known as Shelby. Welcome to my profile. 
+# Some things that interest me are machine learning, computer vision, and linux.
 # My preferred programming language is Python, but I know a couple others as well,
 # such as C++, R, and some SQL.
 
